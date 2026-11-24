@@ -1,0 +1,9 @@
+{
+  "name": "tripo-engine",
+  "private": true,
+  "type": "module",
+  "description": "Tripo v3 client: image-to-multiview, then texture from those views.",
+  "scripts": {
+    "test": "node --test test/shapes.test.mjs"
+  }
+}

@@ -1,0 +1,7 @@
+.env
+node_modules/
+*.log
+tripo-out/
+docs/cli-usage.md
+docs/make.md
+docs/game-asset.md
